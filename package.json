@@ -1,0 +1,15 @@
+{
+  "name": "postcss-svgic",
+  "version": "1.0.0",
+  "description": "Make svg sprites easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denys Voloshyn",
+  "license": "ISC",
+  "dependencies": {
+    "mini-svg-data-uri": "^1.2.3",
+    "postcss": "^7.0.32"
+  }
+}
